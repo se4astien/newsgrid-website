@@ -1,6 +1,6 @@
 # Grid CSS Project
 
-HTML/CSS Project using Grid CSS and Media Queries for responsive.
+HTML/CSS project using Grid CSS and Media Queries for Responsive.
 
 ## Online
 
