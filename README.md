@@ -8,6 +8,10 @@ Project online at this address : https://newsgrid-css-website.netlify.com/
 
 
 ## Screenshots
+
+### Home Page
 ![](https://github.com/se4astien/newsgrid-website/blob/master/screenshots/newsgrid-website-01.png)
 ![](https://github.com/se4astien/newsgrid-website/blob/master/screenshots/newsgrid-website-02.png)
+
+### Article Page
 ![](https://github.com/se4astien/newsgrid-website/blob/master/screenshots/newsgrid-website-03.png)
